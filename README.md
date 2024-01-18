@@ -76,11 +76,11 @@ Homework and lab assignments will be assigned approximately every other week, an
 | 7     | DoS ctd, Database and Cloud Security (Ch 5)         |
 | 8     | Database, ctd.                                      |
 | 9     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
-| 10    | Buffer Overflow, ctd                                |
+| 10    | **Spring Break**                                    |
 | 11    | Buffer Overflow, ctd                                |
-| 12    | User Authentication and Access Control (Ch 3, 4)    |
-| 13    | UAAC ctd, Intrusion Detection (Ch 8)                |
-| 14    | Spring Break                                        |
+| 12    | Buffer Overflow, ctd                                |
+| 13    | User Authentication and Access Control (Ch 3, 4)    |
+| 14    | UAAC ctd, Intrusion Detection (Ch 8)                |
 | 15    | OS Security (Ch 12)                                 |
 | 16    | Case Study, Final Exam                              |
 
